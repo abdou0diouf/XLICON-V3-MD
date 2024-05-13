@@ -43,7 +43,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //________________________________________________________________________________________________________
 global.ytname = process.env.YT_NAME || "YT: S4 Salman YT" //ur yt chanel name
 //________________________________________________________________________________________________________
-global.socialm = process.env.MEDIA || "GitHub: salmanytofficial" //ur github or insta name
+global.socialm = process.env.MEDIA || "Insta: ouz3399" //ur github or insta name
 //________________________________________________________________________________________________________
 global.location = process.env.GL_INFO || "Senegal, Dakar, Ouakam" //ur location
 //________________________________________________________________________________________________________
@@ -56,13 +56,13 @@ global.ownernumber = process.env.SUDO || '221773960576' //ur owner number
 //________________________________________________________________________________________________________
 global.ownername = process.env.SUDO_NAME || 'Ousmane sudo' //ur owner name
 //________________________________________________________________________________________________________
-global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
+global.websitex = process.env.YT_LINK || "https://sites.google.com/view/ouzi" //MA SITE WEB
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/KjOTWfuwygo5yFFWXNSNkv"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "© ouziXʟɪᴄᴏɴ-Iɴᴄ"
+global.wm = process.env.GL_WM || "© Ousmane-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
@@ -74,7 +74,7 @@ global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '!'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["221773960153"] // Premium User
+global.premium = process.env.GL_VIP || ["221773960153,221765291883"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
